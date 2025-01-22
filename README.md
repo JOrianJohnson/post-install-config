@@ -46,8 +46,7 @@ Go to settings -> Users -> settings again and make sure the box titled "Require 
 
 <p>
 <img src="https://i.imgur.com/CUDhCF3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<img src="https://imgur.com/AJRxGyZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/plHrj8I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/W8mMxjk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create two new test agents ("John Doe" and "Jane Doe")--> Assign John to "System Administrators" department with "Super admin" permissions level & add him to "Level II support" team. All of these options are located under the "access & Teams" tabs on the same agent screen. Next add "Jane Doe" the same way as previously completed for John Doe. Please reference pictures above that are in order.
@@ -63,7 +62,7 @@ In this step you will configure how customers and employees use the ticketing sy
 <br />
 
 <p>
-<img src="https://imgur.com/axEMi5X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ULNyAo6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next, a "Service Level Agreement" (SLA) needs to be created. Here are the layouts: "Sevice Level I" - helpdesk tickets must be responded to within 1 hour on a 24/7 schedule. "Service Level II" - ticket response time must be within 4 hours on a 24/7 schedule. "Service level III"- within 8 hours on a regular business hour time frame. Go to admin panel -> manage -> SLA to create all three of these SLAs. 

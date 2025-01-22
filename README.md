@@ -28,8 +28,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 <img src="https://i.imgur.com/2T65kV4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/IHwQJcV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/ULXpzQT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7yxP3jI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/W8mMxjk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Log into the OsTicket browser and make sure you are on the "admin panel" (note if it shows "agent panel" up top then you are currently in the admin panel and vice versa) reference picture # 1. Click agents --> roles --> add new role --> create a "super admin" whom can do every task and has all permissions/access. This process will need to be repeated to perform the next two steps which are: configuring the departments & teams (create a "System Administrators department" & "level II Support team"). Please reference screenshots above.
@@ -45,7 +45,7 @@ Go to settings -> Users -> settings again and make sure the box titled "Require 
 <br />
 
 <p>
-<img src="https://imgur.com/lsniCuX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/CUDhCF3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <img src="https://imgur.com/AJRxGyZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/plHrj8I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -55,7 +55,7 @@ Create two new test agents ("John Doe" and "Jane Doe")--> Assign John to "System
 <br />
 
 <p>
-<img src="https://imgur.com/r537R13.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/O6oYc3Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this step you will configure how customers and employees use the ticketing system software. Go to the agent panel --> Users tab --> create new user --> create two new generic users named "Jerry" and "Kim" with email addresses. Any name or email combonation is fine since these are both just test accounts for the third and final part of this entire Lab titled "Ticket Lifecycle". 
@@ -71,7 +71,7 @@ Next, a "Service Level Agreement" (SLA) needs to be created. Here are the layout
 <br />
 
 <p>
-<img src="https://imgur.com/DKVAXHN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/yu9Oybh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/qifHwMA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>

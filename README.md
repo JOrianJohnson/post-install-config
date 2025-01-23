@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/W8mMxjk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log into the OsTicket browser and make sure you are on the "admin panel" (note if it shows "agent panel" up top then you are currently in the admin panel and vice versa) reference picture # 1. Click agents --> roles --> add new role --> create a "super admin" whom can do every task and has all permissions/access. This process will need to be repeated to perform the next two steps which are: configuring the departments & teams (create a "System Administrators department" & "Online Banking team"). Please reference screenshots above.
+First you want to log into the OsTicket browser and make sure you are on the "Admin Panel".If it shows "Agent Panel" in the top right corner that means you are in the admin panel and vice versa. Look at picture # 1 for reference.Then click agents --> roles --> add new role --> create a "Supreme Admin". This person can do every task and has all permissions/access. Repeat this to perform the next two steps which are: configuring the departments and teams (create a "System Administrators Department" & "Online Banking team"). 
 </p>
 <br />
 
@@ -40,7 +40,7 @@ Log into the OsTicket browser and make sure you are on the "admin panel" (note i
 
 </p>
 <p>
-Go to settings -> Users -> settings again and make sure the box titled "Require registration and login to create tickets" is unchecked. This is will allow everyone access to make tickets without restrictions. 
+Next, go to settings -> users -> settings again and make sure the box titled "require registration and login to create tickets" is unchecked. This is will allow everyone to make tickets without having to register or login to the company's system. 
 </p>
 <br />
 
@@ -49,7 +49,7 @@ Go to settings -> Users -> settings again and make sure the box titled "Require 
 <img src="https://i.imgur.com/W8mMxjk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create two new test agents ("John Joe" and "Karen John")--> Assign John to "System Administrators" department with "Super admin" permissions level & add him to "Level II support" team. All of these options are located under the "access & Teams" tabs on the same agent screen. Next add "Jane Doe" the same way as previously completed for John Doe. Please reference pictures above that are in order.
+Here you will create two new test agents ("John Joe" and "Karen John"). Assign John to "System Administrators" department with "Supreme Admin" permissions add him to "Support" team. All of these options are located under the "Access & Teams" tabs on the same agent screen. Next add "Karen John" the same way. 
 </p>
 <br />
 
@@ -57,7 +57,7 @@ Create two new test agents ("John Joe" and "Karen John")--> Assign John to "Syst
 <img src="https://i.imgur.com/O6oYc3Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this step you will configure how customers and employees use the ticketing system software. Go to the agent panel --> Users tab --> create new user --> create two new generic users named "Kenny" and "Kari" with email addresses. Any name or email combonation is fine since these are both just test accounts for the third and final part of this entire Lab titled "Ticket Lifecycle". 
+In this step you will configure how customers and employees use the ticketing system software. Go to the agent panel --> Users tab --> create new user and create two new generic users named "Kenny" and "Kari" with email addresses, phone numbers are optional. Any name or email combonation is fine since these are both just test accounts for the third and final part of this entire demonstration. 
 </p>
 <br />
 
@@ -65,7 +65,7 @@ In this step you will configure how customers and employees use the ticketing sy
 <img src="https://i.imgur.com/ULNyAo6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, a "Service Level Agreement" (SLA) needs to be created. Here are the layouts: "Sev-A" - helpdesk tickets must be responded to within 1 hour on a 24/7 schedule. "Sev-B" - ticket response time must be within 4 hours on a 24/7 schedule. "Sev-C"- within 8 hours on a regular business hour time frame. Go to admin panel -> manage -> SLA to create all three of these SLAs. 
+Next, a "Service Level Agreement" (SLA) needs to be created. You will create three SLAs by going to admin panel -> manage -> SLA to create all three of the SLAs. "Sev-A" - set the time needed to be responded to within 1 hour on a 24/7 schedule. "Sev-B" - set the time needed to be responded to within 4 hours on a 24/7 schedule. "Sev-C"- set the time needed to be responded to within 8 hours on a regular business hour time frame.
 </p>
 <br />
 
@@ -73,4 +73,5 @@ Next, a "Service Level Agreement" (SLA) needs to be created. Here are the layout
 <img src="https://imgur.com/yu9Oybh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The last step is to configure "help topics". In this step you will create the help ticket names in OsTicketing for users to select when they are having specific issues.  The tickets will also need to be assigned to a "department" along with a "SLA priority". You can even auto-assign that particular help desk ticket topic to a group like "General Supporrt" or Online Banking depending on the severity. Ex: create ticket help topic titled "Business Critical Outage" --> priority level "emergency" --> "Sev-A" SLA plan --> sent to the "System Administrators" group --> auto-assigned to the "support team" or to an individual agent like John or Jane. This concludeds how to setup help desk support tickets from the admin level post Installation.
+The last step is to configure "Help Topics". In this step you will create the help ticket names in OsTicket for users to select when they are having specific issues. The tickets will also need to be assigned to a "Department" along with a "SLA Severity/Priority". You can even auto assign certain help desk ticket topics to a group like "Supporrt" or "Online Banking" depending on the severity. For example, A user will or employee will create a ticket with a help topic titled "Business Critical Outage" --> priority level "emergency" --> "Sev-A" SLA --> sent to the "System Administrators" group --> auto-assigned to the "support team" or to an individual agent like John. This is how to setup 
+osTicket support tickets from the admin level post Installation.

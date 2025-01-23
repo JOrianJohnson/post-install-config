@@ -49,7 +49,7 @@ Next, go to settings -> users -> settings again and make sure the box titled "re
 <img src="https://i.imgur.com/W8mMxjk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here you will create two new test agents ("John Joe" and "Karen John"). Assign John to "System Administrators" department with "Supreme Admin" permissions add him to "Support" team. All of these options are located under the "Access & Teams" tabs on the same agent screen. Next add "Karen John" the same way. 
+Here you will create two new test agents ("John Joe" and "Karen John"). Assign John to "System Administrators" department with "Supreme Admin" permissions add him to "Support" team. All of these options are located under the "Access & Teams" tabs on the same agent screen. Next add "Karen John" the same way but instead to the "Online Banking" team. 
 </p>
 <br />
 
